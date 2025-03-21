@@ -4,8 +4,8 @@ package types_test
 
 import (
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/service/bedrockruntime/document"
-	"github.com/aws/aws-sdk-go-v2/service/bedrockruntime/types"
+	"github.com/Enflick/bedrockruntime/document"
+	"github.com/Enflick/bedrockruntime/types"
 )
 
 func ExampleContentBlock_outputUsage() {

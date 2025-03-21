@@ -3,7 +3,7 @@
 package types
 
 import (
-	"github.com/aws/aws-sdk-go-v2/service/bedrockruntime/document"
+	"github.com/Enflick/bedrockruntime/document"
 	smithydocument "github.com/aws/smithy-go/document"
 )
 

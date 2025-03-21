@@ -11,7 +11,7 @@ import (
 	internalConfig "github.com/aws/aws-sdk-go-v2/internal/configsources"
 	"github.com/aws/aws-sdk-go-v2/internal/endpoints"
 	"github.com/aws/aws-sdk-go-v2/internal/endpoints/awsrulesfn"
-	internalendpoints "github.com/aws/aws-sdk-go-v2/service/bedrockruntime/internal/endpoints"
+	internalendpoints "github.com/Enflick/bedrockruntime/internal/endpoints"
 	smithyauth "github.com/aws/smithy-go/auth"
 	smithyendpoints "github.com/aws/smithy-go/endpoints"
 	"github.com/aws/smithy-go/middleware"
