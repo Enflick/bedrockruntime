@@ -38,6 +38,6 @@
         "validators.go"
     ],
     "go": "1.15",
-    "module": "github.com/aws/aws-sdk-go-v2/service/bedrockruntime",
+    "module": "github.com/Enflick/bedrockruntime",
     "unstable": false
 }
